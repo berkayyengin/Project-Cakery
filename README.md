@@ -1,7 +1,5 @@
 # Project Cakery
 
-# Welcome to our Cakery App project
-
 *About The Application*
 > Hi Cakery Lovers, When it comes to a special day to celebrate, we know you want to eat the best cakes in your town. We are here for you. With Cakery, you'll be able to see all available cake shops and their delicious cakes in one application. You can choose one of the displayed items or you can even build your own cake and place an order with just one button and voi-la!  We're here to make sure you get the best cake for your celebration from Cakery to enjoy your special day! To see any update about application please check About The Application Part occasionally.
 
@@ -21,8 +19,10 @@
   
 # Project Photos
 
-![Resim3](https://github.com/berkayyengin/Project-Cakery/assets/112322025/5e858df8-f554-4a05-9726-a8fb1720f45b)
-![Resim2](https://github.com/berkayyengin/Project-Cakery/assets/112322025/895aa819-67f8-4611-a84f-bc6be341cabb)
-![Resim1](https://github.com/berkayyengin/Project-Cakery/assets/112322025/070dd8f8-e2f4-4b76-a503-cc7aa8afa76d)
-![Resim5](https://github.com/berkayyengin/Project-Cakery/assets/112322025/c6fab12e-a5d5-4fdd-a871-0573a824dc8c)
-![Resim4](https://github.com/berkayyengin/Project-Cakery/assets/112322025/7f524ffb-dc45-49e9-b4c1-2e0a19750b35)
+- ![Resim1](https://github.com/berkayyengin/Project-Cakery/assets/112322025/7582f68d-3ae5-46b6-a8d7-3be3d23a98c2)
+- ![Resim2](https://github.com/berkayyengin/Project-Cakery/assets/112322025/7ae35251-4a63-4245-b473-0dc9c9b33d43)
+- ![Resim3](https://github.com/berkayyengin/Project-Cakery/assets/112322025/4904ef63-e239-446e-8d86-f643befb2122)
+- ![Resim4](https://github.com/berkayyengin/Project-Cakery/assets/112322025/48aa0b2c-4e61-41f5-98b0-daf945114dc5)
+- ![Resim5](https://github.com/berkayyengin/Project-Cakery/assets/112322025/68c57dfc-c9fb-4ef8-a546-73f4c3d9f734)
+
+
