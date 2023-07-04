@@ -18,6 +18,7 @@
 - [x] Presentations and Demonstrations 🎉
 - [x] Implementation 📱
 
-![image](https://github.com/berkayyengin/Project-Cakery/assets/112322025/90268175-7767-466f-b8c0-d3f332477556)
+
 
 For further information [Click Wix Page](https://oursitetedu.wixsite.com/cakeryapp) 🎂
+![Resim3](https://github.com/berkayyengin/Project-Cakery/assets/112322025/5e858df8-f554-4a05-9726-a8fb1720f45b)
