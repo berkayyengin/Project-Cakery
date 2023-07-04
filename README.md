@@ -17,6 +17,7 @@
 - [x] High-Level Design Report
 - [x] Presentations and Demonstrations 🎉
 - [x] Implementation 📱
-![alt text](file:///C:/Users/Berkay/Desktop/Resim1.png)
+
+![image](https://github.com/berkayyengin/Project-Cakery/assets/112322025/90268175-7767-466f-b8c0-d3f332477556)
 
 For further information [Click Wix Page](https://oursitetedu.wixsite.com/cakeryapp) 🎂
