@@ -17,8 +17,12 @@
 - [x] High-Level Design Report
 - [x] Presentations and Demonstrations 🎉
 - [x] Implementation 📱
+- For further information [Click Wix Page](https://oursitetedu.wixsite.com/cakeryapp) 🎂
+  
+# Project Photos
 
-
-
-For further information [Click Wix Page](https://oursitetedu.wixsite.com/cakeryapp) 🎂
 ![Resim3](https://github.com/berkayyengin/Project-Cakery/assets/112322025/5e858df8-f554-4a05-9726-a8fb1720f45b)
+![Resim2](https://github.com/berkayyengin/Project-Cakery/assets/112322025/895aa819-67f8-4611-a84f-bc6be341cabb)
+![Resim1](https://github.com/berkayyengin/Project-Cakery/assets/112322025/070dd8f8-e2f4-4b76-a503-cc7aa8afa76d)
+![Resim5](https://github.com/berkayyengin/Project-Cakery/assets/112322025/c6fab12e-a5d5-4fdd-a871-0573a824dc8c)
+![Resim4](https://github.com/berkayyengin/Project-Cakery/assets/112322025/7f524ffb-dc45-49e9-b4c1-2e0a19750b35)
